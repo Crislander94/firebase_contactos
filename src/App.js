@@ -8,7 +8,7 @@ const App = () => {
 
     return(
         <Contenedor>
-            <Titulo>Lista de Contactos</Titulo>
+            <Titulo>Lista de Contactos2</Titulo>
             <Formulario />
             <ListaContactos />
         </Contenedor>
